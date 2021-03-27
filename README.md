@@ -219,7 +219,7 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
     Mark all boxes with X after you completed your changes
 
-`git add .`
+- [x] `git add .`
 
 `git commit -m "Marked x"`
 
