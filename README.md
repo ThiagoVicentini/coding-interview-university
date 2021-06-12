@@ -16,17 +16,11 @@
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
-- [Before you Get Started](#before-you-get-started)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [The Daily Plan](#the-daily-plan)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
@@ -183,16 +177,16 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 - [x] How to Get a Job at the Big 4:
     - [x] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
     - [x] [How to Get a Job at the Big 4.1 (Follow-up video)](https://www.youtube.com/watch?v=6790FVXWBw8&feature=youtu.be)
-- [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] Cracking the Facebook Coding Interview:
-    - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
-    - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
-- [ ] Prep Course:
+- [x] Cracking The Coding Interview Set 1:
+    - [x] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [x] Cracking the Facebook Coding Interview:
+    - [x] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
+    - [x] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
+- [x] Prep Course:
     - [x] [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
         - A free Python centric data structures and algorithms course.
-    - [ ] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
+    - [x] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
         - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
 ## Pick One Language for the Interview
@@ -218,118 +212,30 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
-### Language Specific
-
-[See language resources here](programming-language-resources.md)
-
 ### C++
 
 - [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 - [ ] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
-    - Rich and detailed collection of Data Structures and Algorithms
-    - Great for first-timers
 
 ### Python
 
 - [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-    - by Goodrich, Tamassia, Goldwasser
-    - I loved this book. It covered everything and more
-    - Pythonic code
-    - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 - [ ] [Open Data Structures in Python](https://opendatastructures.org/ods-python.pdf)
-
-## Before you Get Started
-
-This list grew over many months, and yes, it kind of got out of hand.
-
-Here are some mistakes I made so you'll have a better experience.
-
-### 1. You Won't Remember it All
-
-I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
-through my notes and making flashcards, so I could review.
-
-Please, read so you won't make my mistakes:
-
-- [x] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
-
-### 2. Use Flashcards
-
-To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
-Each card has different formatting.
-
-### 3. Start doing coding interview questions while you're learning data structures and algorithms
-
-You need to apply what you're learning to solving problems, or you'll forget. I made this mistake. Once you've learned a topic,
-and feel comfortable with it, like linked lists, open one of the coding interview books and do a couple of questions regarding
-linked lists. Then move on to the next learning topic. Then later, go back and do another linked list problem,
-or recursion problem, or whatever. But keep doing problems while you're learning. You're not being hired for knowledge,
-but how you apply the knowledge. There are several books and sites I recommend.
-See here for more: [Coding Question Practice](#coding-question-practice).
-
-### 4. Review, review, review
-
-I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
-
-Take a break from programming problems for a half hour and go through your flashcards.
-
-### 5. Focus
-
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
-without lyrics and you'll be able to focus pretty well.
-
-## What you won't see covered
-
-These are prevalent technologies but not part of this study plan:
-
-- SQL
-- Javascript
-- HTML, CSS, and other front-end technologies
-
-## The Daily Plan
-
-Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
-
-Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
-- C - using structs and functions that take a struct * and something else as args
-- C++ - without using built-in types
-- C++ - using built-in types, like STL's std::list for a linked list
-- Python - using built-in types (to keep practicing Python)
-- and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
-- You may do Java or something else, this is just my thing
-
-Why code in all of these?
-- Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
-- Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python or Java))
-- Make use of built-in types, so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
-
-I may not have time to do all of these for every subject, but I'll try.
-
-You can see my code here:
- - [C](https://github.com/jwasham/practice-c)
- - [C++](https://github.com/jwasham/practice-cpp)
- - [Python](https://github.com/jwasham/practice-python)
-
-You don't need to memorize the guts of every algorithm.
-
-Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
 ## Prerequisite Knowledge
 
-- [ ] **Learn C**
+- [x] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying
-    - [ ] [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - This is a short book, but it will give you a great handle on the C language and if you practice it a little
-            you'll quickly get proficient. Understanding C helps you understand how programs and memory work
+    - [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - [Answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-    - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+- [x] **How computers process a program:**
+    - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [x] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
+    - [x] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
